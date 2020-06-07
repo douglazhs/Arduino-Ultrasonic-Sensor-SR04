@@ -1,2 +1,2 @@
 # Arduino_UltrasonicSensorSR04
- Projeto arduino utilizando sensor ultrasônico SR04.
+ Projeto arduino utilizando Sensor UltrasSônico SR04.
